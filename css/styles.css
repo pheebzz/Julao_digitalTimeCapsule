@@ -1,10 +1,10 @@
 body{
     background-color: #DBDBDB;
-    font-family: "SFPro", sans-serif;
-    color: #23276B;
+    font-family: "MostraNuova", sans-serif;
+    color: "white";
 }
 nav {
-    font-family: "SFPro", sans-serif;
+    font-family: "Futura", sans-serif;
     display: flex;
     justify-content:center;
     align-items: center;
@@ -17,7 +17,5 @@ footer {
     color: white;
     text-align: left;
     padding: 10px;
-    position: fixed;
-    bottom: 0;
     width: 100%;
 }
