@@ -1,15 +1,19 @@
 body{
-    background-color: #DBDBDB;
-    font-family: "SFPro", sans-serif;
-    color: "white";
+    background-color:#3D4654;
+    font-family: "Montserrat", sans-serif;
+    color: "#F2507B";
 }
 nav {
-    font-family: "SFPro", sans-serif;
+    font-family: "sneakers-pro", sans-serif;
+    font-style: normal;
+    font-weight: 500;
     text-transform: uppercase;
+    text-decoration: none;
     display: flex;
     justify-content:center;
     align-items: center;
     background-color: #26BF94;
+    color: black;
     padding: 5px;
 }
 
