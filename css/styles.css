@@ -1,4 +1,23 @@
 body{
     background-color: #DBDBDB;
     font-family: "SFPro", sans-serif;
+    color: #23276B;
+}
+nav {
+    font-family: "SFPro", sans-serif;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #26BF94;
+    padding: 5px;
+}
+
+footer {
+    background-color: #5F1773;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
