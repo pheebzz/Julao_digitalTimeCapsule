@@ -1,7 +1,6 @@
 body{
     color: white;
     background-color:#3D4654;
-    font-family: "Montserrat", sans-serif;
 }
 nav {
     color: white;
@@ -27,6 +26,16 @@ h1{
     padding: 30px;
     width:100%;
 }
+p{
+    font-family: sneakers-pro, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+a {
+    font-family: sneakers-pro, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
 .centered-img {
     display: flex;
     justify-content: center; 
@@ -44,6 +53,9 @@ h1{
 }
 h2{
     color:#F2507B;
+    font-family: sneakers-pro, sans-serif;
+    font-style: normal;
+    font-weight: 500;
 }
 footer {
     color: white;
