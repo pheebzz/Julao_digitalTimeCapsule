@@ -1,0 +1,51 @@
+body{
+    color: white;
+    background-color:#3D4654;
+    font-family: "Montserrat", sans-serif;
+}
+nav {
+    color: white;
+    font-family: sneakers-pro, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #26BF94;
+    padding: 5px;
+}
+h1{
+    color:white;
+    background-color: #F2507B;
+    text-align:center;
+    margin: 10px;
+    padding: 30px;
+    width:100%;
+}
+.centered-img {
+    display: flex;
+    justify-content: center; 
+}
+.image-container{
+   text-align: center;
+}
+.row{
+    display:flex;
+    justify-content: center;
+    margin-bottom:20px;
+}
+.row img{
+    border: 2px solid #26BF94;
+}
+h2{
+    color:#F2507B;
+}
+footer {
+    color: white;
+    background-color: #5F1773;
+    text-align: right;
+    padding: 10px;
+    width: 100%;
+}
