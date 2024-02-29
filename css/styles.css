@@ -18,6 +18,9 @@ nav {
 }
 h1{
     color:white;
+    font-family: sneakers-pro, sans-serif;
+    font-style: normal;
+    font-weight: 500;
     background-color: #F2507B;
     text-align:center;
     margin: 10px;
