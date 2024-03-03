@@ -1,6 +1,7 @@
 body{
     color: white;
     background-color:#3D4654;
+    font-family: "Montserrat", sans-serif;
 }
 nav {
     color: white;
@@ -26,32 +27,19 @@ nav a{
 }
 h1{
     color:white;
-    font-family: sneakers-pro, sans-serif;
-    font-style: normal;
-    font-weight: 500;
     background-color: #F2507B;
     text-align:center;
     margin: 10px;
     padding: 30px;
     width:100%;
 }
-p{
-    font-family: sneakers-pro, sans-serif;
-    font-style: medium;
-    font-weight: 500;
-}
-a {
-    font-family: sneakers-pro, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-}
 .centered-img {
     display: flex;
     justify-content: center; 
-    width:100%;
 }
 .image-container{
-   text-align: center;}
+   text-align: center;
+}
 .row{
     display:flex;
     justify-content: center;
@@ -62,9 +50,6 @@ a {
 }
 h2{
     color:#F2507B;
-    font-family: sneakers-pro, sans-serif;
-    font-style: normal;
-    font-weight: 500;
 }
 footer {
     color: white;
