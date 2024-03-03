@@ -51,9 +51,7 @@ a {
     width:100%;
 }
 .image-container{
-   text-align: center;
-   width:100%;
-}
+   text-align: center;}
 .row{
     display:flex;
     justify-content: center;
