@@ -26,6 +26,11 @@ nav a{
     text-decoration: none;
     margin-right:15%;
 }
+nav a:hover{
+    background-color:#5F1773;
+    color: #F2507B;
+    text-decoration: underline;
+}
 h1{
     color:white;
     font-family: sneakers-pro, sans-serif;
