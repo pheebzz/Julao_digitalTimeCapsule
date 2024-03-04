@@ -57,6 +57,7 @@ h2{
     max-width: 100%;
     height:auto;
     margin-bottom: 10px;
+    border: 2px solid #5F1773;
 }
 .paragraph-container{
     text-align:justify;
