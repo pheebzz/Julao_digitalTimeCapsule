@@ -46,11 +46,11 @@ h1{
 .item1{
     margin-left:365px;
     margin-right:40px;
-    border: 
+    border: 3px solid #26BF94;
 }
 .item2{
     margin-left:20px;
-    margin-right:350px;
+    margin-right:365px;
     justify-content: center;
 }
 img {
@@ -74,6 +74,14 @@ img {
 }
 h2{
     color:#F2507B;
+    font-family: sneakers-pro, sans-serif;
+    font-style:normal;
+    font-weight: 500;
+}
+.item3{
+    margin-left:370px;
+    margin-right:360px;
+    justify-content: center;
 }
 footer {
     color: white;
