@@ -34,8 +34,18 @@ h1{
     background-color: #F2507B;
     text-align:center;
     margin-right:15%;
+    margin-bottom: 20px;
     padding: 5px;
     width:99.4%;
+}
+.container{
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+}
+img {
+    max-width: 100%;
+    height: auto;
 }
 .centered-img {
     display: flex;
