@@ -8,7 +8,7 @@ nav {
     font-family: sneakers-pro, sans-serif;
     font-style: normal;
     font-weight: 500;
-    text-transform: capitalize;
+    text-transform:capitalize;
     text-decoration: none;
     display: flex;
     justify-content:space-between;
@@ -21,41 +21,76 @@ nav a{
     color:white;
     font-family: sneakers-pro, sans-serif;
     font-style:normal;
-    font-weight: 500;
-    font-size:24px;
+    font-weight: 100;
+    font-size: 24px;
     text-decoration: none;
     margin-right:15%;
 }
 h1{
     color:white;
+    font-family: sneakers-pro, sans-serif;
+    font-style:normal;
+    font-weight: 500;
+    font-size:30px;
     background-color: #F2507B;
     text-align:center;
-    margin: 10px;
-    padding: 30px;
-    width:100%;
+    margin-right:15%;
+    margin-bottom: 20px;
+    padding: 5px;
+    width:99.4%;
 }
-.centered-img {
-    display: flex;
-    justify-content: center; 
+
+h2{
+    color:#26BF94;
+    font-family: sneakers-pro, sans-serif;
+    font-style:normal;
+    font-weight: 500;
 }
 .image-container{
-   text-align: center;
-}
-.row{
     display:flex;
     justify-content: center;
-    margin-bottom:20px;
+    align-items: center;
+    flex-wrap:wrap;
+    gap: 10px;
 }
-.row img{
-    border: 2px solid #26BF94;
+.image-container img{
+    max-width: 100%;
+    height:auto;
+    margin-bottom: 10px;
+    border: 2px solid #5F1773;
 }
-h2{
-    color:#F2507B;
+.paragraph-container{
+    text-align:justify;
+    margin-top:20px;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+.image-container2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+    gap: 5px;
+}
+.image-container2 img{
+    max-width: 100%;
+    height:auto;
+    margin-bottom: 10px;
+    border: 2px solid #5F1773;
+}
+.paragraph-container2{
+    text-align:justify;
+    margin-top:20px;
+    margin-left: 220px;
+    margin-right: 220px;
 }
 footer {
     color: white;
     background-color: #5F1773;
     text-align: right;
     padding: 10px;
-    width: 100%;
+    width: 99.4%;
+}
+footer a{
+    color:white;
 }

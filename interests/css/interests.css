@@ -65,6 +65,25 @@ h2{
     margin-left: 220px;
     margin-right: 220px;
 }
+.image-container2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+    gap: 5px;
+}
+.image-container2 img{
+    max-width: 100%;
+    height:auto;
+    margin-bottom: 10px;
+    border: 2px solid #5F1773;
+}
+.paragraph-container2{
+    text-align:justify;
+    margin-top:20px;
+    margin-left: 220px;
+    margin-right: 220px;
+}
 footer {
     color: white;
     background-color: #5F1773;
