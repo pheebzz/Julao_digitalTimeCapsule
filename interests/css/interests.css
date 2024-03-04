@@ -46,6 +46,24 @@ h2{
     font-style:normal;
     font-weight: 500;
 }
+.image-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+    gap: 10px;
+}
+.image-container img{
+    max-width: 100%;
+    height:auto;
+    margin-bottom: 10px;
+}
+.paragraph-container{
+    text-align:justify;
+    margin-top:20px;
+    margin-left: 220px;
+    margin-right: 220px;
+}
 footer {
     color: white;
     background-color: #5F1773;
