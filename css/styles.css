@@ -69,16 +69,17 @@ h1{
 }
 .item3{
     margin-top:5px;
+    margin-right:120px;
     margin-left:220px;
     margin-bottom: 40px;
-    padding-bottom: 300px;
+    padding-bottom: 420px;
     justify-content: center;
 }
 .item4{
     display: flex;
     margin-right:220px;
     margin-bottom:80px;
-    margin-left:20px:
+    margin-left:50px;
     border: 3px solid #5F1773;   
 }
 .centered-img {
@@ -93,7 +94,7 @@ h2{
     text-align:center;
     margin-right:15%;
     margin-bottom: 20px;
-    padding: 5px;
+    padding: 15px;
     width:99.4%;
 }
 footer {
