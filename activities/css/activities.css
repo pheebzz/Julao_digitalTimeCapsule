@@ -78,6 +78,10 @@ img {
 .image-container{
    text-align: center;
 }
+.paragraph-container{
+    margin-left:220px;
+    margin-right:320px;
+}
 .row{
     display:flex;
     justify-content: center;
