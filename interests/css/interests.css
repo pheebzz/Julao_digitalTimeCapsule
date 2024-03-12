@@ -84,11 +84,11 @@ h1{
 }
 .item3{
     margin-left:220px;
-    margin-bottom: 40px;
+    margin-bottom: 250px;
     justify-content: center;
 }
-.item3 p{
-    margin-bottom:550px;
+.second-paragraph{
+    margin-bottom: 200px;
 }
 .item4{
     margin-right:220px;
