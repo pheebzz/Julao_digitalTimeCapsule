@@ -50,21 +50,27 @@ h1{
 .container{
     display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
     align-items:flex-start;
 }
 .item1{
-    margin-bottom:10px;
+    margin-left:220px;
+    margin-bottom:40px;
     border: 3px solid #5F1773;
     
 }
 .item2{
-    margin-top:5px;
-    margin-left:10px;
-    margin-right:345px;
-    margin-bottom: 40px;
+    flex-grow: 1;
     justify-content: center;
-    padding: 30px;
+    margin-left: 30px;
+    margin-right:300px;
+}
+.item2 p{
+    margin-bottom:260px;
+}
+.image-container {
+    display: flex;
+    flex-direction: column;
 }
 .item3{
     margin-top:5px;
