@@ -73,14 +73,14 @@ h1{
     flex-direction: column;
 }
 .item3{
-    margin-top:5px;
-    margin-right:120px;
-    margin-left:220px;
+    flex-grow: 1;
     margin-bottom: 40px;
     justify-content: center;
 }
+.item3 p{
+    margin-bottom:10px;
+}
 .item4{
-    display: flex;
     margin-right:220px;
     margin-bottom:80px;
     margin-left:50px;
